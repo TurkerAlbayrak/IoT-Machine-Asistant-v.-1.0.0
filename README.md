@@ -18,8 +18,8 @@ Klasik MQTT "Fire and Forget" (Yolla ve Unut) yapısı yerine, endüstriyel stan
 <img width="1916" height="986" alt="image" src="https://github.com/user-attachments/assets/86ecad1f-fc62-4dba-a9f4-c78e0cf1d3a9" />
 <img width="1918" height="987" alt="image" src="https://github.com/user-attachments/assets/01cfcf66-1c22-4551-b432-f90c8ee6b051" />
 <img width="1917" height="982" alt="image" src="https://github.com/user-attachments/assets/33a51c1a-439e-4179-9c46-703aae149676" />
-
-
+<img width="1703" height="1077" alt="image" src="https://github.com/user-attachments/assets/2d59cad8-66b6-4fee-b5aa-2d36662d4b20" />
+<img width="1918" height="992" alt="image" src="https://github.com/user-attachments/assets/3d15633f-23c3-41e4-8114-675eb3285fe2" />
 
 ## 🎯 Proje Amacı ve Farkı
 
